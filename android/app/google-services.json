@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874468735953",
+    "project_id": "kto-oxygen",
+    "storage_bucket": "kto-oxygen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874468735953:android:15c8972581da611ec63ef0",
+        "android_client_info": {
+          "package_name": "com.soepaing.kto_oxygen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874468735953-atf1e6rvi9t2ias1l2fnb50rl5tmu0du.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3oPJxa70EG-HmB2-qUhLSgSJq9c7riBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874468735953-atf1e6rvi9t2ias1l2fnb50rl5tmu0du.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
